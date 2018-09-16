@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>fuwafuwa!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+	<div class="container">
+	  <div class="box">
+	    <h1>bubbly-bg Demo</h1>
+	    <p><a href="https://tipsy.github.io/bubbly-bg/">Website</a></p>
+	  </div>
+	</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bubbly-bg@1.0.0/dist/bubbly-bg.js"></script>
+<script>
+console.log("ugoita");
+bubbly();
+</script>
+</body>
+
